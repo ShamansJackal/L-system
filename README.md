@@ -12,7 +12,7 @@
 
 - First, clone the repository.
 ```
-git clone https://gitlab.com/Shamans_Jackal/l-system.git 
+git clone https://github.com/ShamansJackal/L-system.git
 ```
 - Then, change your current directory into the l-system repository.
 ```
