@@ -1,0 +1,4 @@
+Turtles: [[900, 800, 60, 2, FXF--FF--FF--, 100]]
+Rules:
+  X: --FXF++FXF++FXF--
+  F: FF

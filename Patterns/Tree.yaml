@@ -1,0 +1,4 @@
+Turtles: [[800, 880, 20, 1.7, A]]
+Rules:
+  F: F[+F]F[-F]F
+  A: F[+A][-A]

@@ -1,0 +1,6 @@
+Turtles: [[400, 150, 90, 6, F-F-F-F-], [400, 880, 60, 3, W], [1000, 720, 90, 6, U+U+U+U+]]
+Rules:
+  F: F+FF-FF-F-F+F+FF-F-F+F+FF+FF-F
+  W: W-W++W-W
+  S: SSSSSS
+  U: U+S-UU+U+UU+US+UU-S+UU-U-UU-US-UUU

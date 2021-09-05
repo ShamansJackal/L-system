@@ -1,0 +1,4 @@
+Turtles: [[1000, 150, 90, 1.5, FX++]]
+Rules:
+  FX: FX+FY+
+  FY: -FX-FY
