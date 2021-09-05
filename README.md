@@ -1,6 +1,7 @@
 # L-system
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![alt text](Sreenshots/screenshot10.png) 
 
 2D [L-systems](https://en.wikipedia.org/wiki/L-system) visualizer by config file writed with Python and PyGame. Draws various L-trees, Fractals and other shapes step by step. Some config file included in package.
 
