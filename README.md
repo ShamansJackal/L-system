@@ -7,6 +7,7 @@
 # Requirements
 - Python 3
 - Pip (Python's Package Manager)
+- PyGame
 
 # Instalation
 
@@ -20,7 +21,7 @@ cd l-system
 ```
 - Finally, install the requirements in the requirements file.
 ```
-pip install -r requirements.txt
+pip install pygame
 ```
 - From here, l-system is installed.
 
